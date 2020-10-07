@@ -1,0 +1,6 @@
+Objectives for Skynet 2.0
+
+More efficient path to a specific card and its price
+Add long-term price tracking
+Clean UI outside of Excel with all my needed features
+Easily downloaded and installed
