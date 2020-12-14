@@ -4,3 +4,11 @@ More efficient path to a specific card and its price
 Add long-term price tracking
 Clean UI outside of Excel with all my needed features
 Easily downloaded and installed
+
+Database Structure
+all cards and printings need to be in one core database
+
+need cardname, set for pricing data 
+need color, any styles for sorting
+collector number, mana cost, cmc useful for features beyond price and organization
+    like complete sets, deckbuilding

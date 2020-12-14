@@ -171,7 +171,7 @@ def grab_colors(api_card):
 
 
 cards = Database("sqlite_practice/testDB.db")
-cards.insert_csv("sqlite_practice/cards_test1.csv")
+cards.delete_csv("sqlite_practice/cards_test1.csv")
 # cards.delete_simple(["Abandoned Sarcophagus", "c20", "236"])
 card1 = cards.name_fetch("Abandoned Sarcophagus")
 for row in card1:
