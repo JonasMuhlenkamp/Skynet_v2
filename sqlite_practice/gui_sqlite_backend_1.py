@@ -1,7 +1,8 @@
 import sqlite3
 import csv
 import requests, json
-
+ 
+# Honestly who knows when I'm going to finish this lol
 #We will be defining a 'Database' class
 class Database:
     
